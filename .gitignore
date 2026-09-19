@@ -1,0 +1,13 @@
+# build artifacts
+build/
+gitfull
+*.o
+*.d
+
+# editor / OS
+*.swp
+*~
+.DS_Store
+
+# local test scratch
+/tmp/
