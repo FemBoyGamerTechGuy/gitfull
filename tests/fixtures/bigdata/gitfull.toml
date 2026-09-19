@@ -1,0 +1,8 @@
+[package]
+name = "bigdata"
+description = "many-file fixture"
+license = "MIT"
+
+[build]
+system = "make"
+run_tests = false

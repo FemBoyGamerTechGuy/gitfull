@@ -1,0 +1,4 @@
+[package]
+name = "cyc-a"
+[dependencies]
+cyc-b = "local:/home/z/my-project/gitfull/tests/fixtures/cyc-b"

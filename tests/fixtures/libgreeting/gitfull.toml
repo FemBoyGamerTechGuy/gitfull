@@ -1,0 +1,6 @@
+[package]
+name = "libgreeting"
+description = "greeter library fixture"
+license = "MIT"
+[build]
+system = "make"

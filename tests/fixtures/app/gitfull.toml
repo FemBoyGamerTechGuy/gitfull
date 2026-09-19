@@ -1,0 +1,8 @@
+[package]
+name = "app"
+description = "application fixture with a runtime dependency"
+license = "MIT"
+[build]
+system = "make"
+[dependencies]
+libgreeting = "local:tests/fixtures/libgreeting"

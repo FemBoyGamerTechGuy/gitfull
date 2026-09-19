@@ -1,0 +1,4 @@
+[package]
+name = "evil"
+description = "sandbox escape probe fixture"
+license = "MIT"

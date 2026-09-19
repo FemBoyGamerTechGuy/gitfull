@@ -1,0 +1,7 @@
+[package]
+name = "hello"
+description = "gitfull integration test fixture"
+license = "MIT"
+
+[build]
+system = "make"
